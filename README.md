@@ -1,8 +1,8 @@
 # PM25 Week 3 - Simple Android App
 ## Author
-Nama  : [Ahmad Muslihul Khair]
+Nama  : **Ahmad Muslihul Khair**
 
-NIM   : [F1D02310001]
+NIM   : **F1D02310001**
 
 ---
 ## Deskripsi
